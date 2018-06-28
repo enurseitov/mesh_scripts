@@ -26,7 +26,7 @@ sudo rm -R batman-adv-2018.1
 rm batctl-2018.1.tar.gz
 rm batman-adv-2018.1.tar.gz
 
-sudo chmod +x batsetup-rpi.sh
+sudo chmod +x init_mesh.sh
 
 sudo cp dhcpcd.conf /etc/dhcpcd.conf
 sudo cp rc.local /etc/rc.local
